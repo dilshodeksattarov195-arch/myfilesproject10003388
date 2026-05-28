@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsecrypt",
+        "uuid": 5766376,
+        "checksum": "343878"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
